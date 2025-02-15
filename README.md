@@ -10,6 +10,7 @@ Score Keeper is a simple web application to keep track of scores for various gam
 - Responsive design for mobile and desktop
 
 ## Screenshots
+
 <div style="display: flex; justify-content: space-between;">
     <img src="public/localhost_3001_(Samsung Galaxy A51_71).png" alt="Main Content" width="200"/>
 </div>
@@ -25,32 +26,35 @@ To install the Score Keeper app on your phone, follow these steps:
 3. Open the app from your home screen
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="public/install the react app.jpg" alt="Main Content" width="200"/>
-    <img src="public/add to home screen.jpg" alt="Main Content" width="200"/>
+    <img src="public/add to home screen.jpg" alt="Main Content" width="200"/>    <img src="public/install the react app.jpg" alt="Main Content" width="200"/>
+
 </div>
+
 ### For Desktop Users
 
 To install and run the Score Keeper app locally, follow these steps:
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/mohamedreda22/score-keeper.git
-    ```
+   ```sh
+   git clone https://github.com/mohamedreda22/score-keeper.git
+   ```
 2. Navigate to the project directory:
-    ```sh
-    cd score-keeper
-    ```
+   ```sh
+   cd score-keeper
+   ```
 3. Install the dependencies:
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm install
+   ```
 
 ## Usage
 
 To start the development server, run:
+
 ```sh
 npm start
 ```
+
 Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
 ## Live Demo
@@ -64,4 +68,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
