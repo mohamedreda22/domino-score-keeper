@@ -16,6 +16,20 @@ Score Keeper is a simple web application to keep track of scores for various gam
 
 ## Installation
 
+### For Mobile Users
+
+To install the Score Keeper app on your phone, follow these steps:
+
+1. Open the app in your browser: [Live Demo](https://mohamedreda22.github.io/score-keeper/)
+2. Click on the browser's menu and select "Add to Home Screen" and then install the React app on your phone
+3. Open the app from your home screen
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="public/install the react app.jpg" alt="Main Content" width="200"/>
+    <img src="public/add to home screen.jpg" alt="Main Content" width="200"/>
+</div>
+### For Desktop Users
+
 To install and run the Score Keeper app locally, follow these steps:
 
 1. Clone the repository:
